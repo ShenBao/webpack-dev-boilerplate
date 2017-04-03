@@ -13,8 +13,8 @@ class App extends Component {
       <div>
         <MyComponent />
         <p>
-          欢迎在github上一起维护这个脚手架项目<br />
-          https://github.com/GuoYongfeng
+          欢迎在github上点赞<br />
+          https://github.com/ShenBao
         </p>
       </div>
     );

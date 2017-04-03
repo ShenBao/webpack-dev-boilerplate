@@ -14,20 +14,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuoYongfeng/webpack-dev-boilerplate.git"
+    "url": "git+https://github.com/ShenBao/webpack-dev-boilerplate.git"
   },
   "keywords": [
     "react",
     "webpack",
     "es6",
-    "babel"
+    "babel",
+    "ShenBao"
   ],
-  "author": "guoyongfeng",
+  "author": "ShenBao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GuoYongfeng/webpack-dev-boilerplate/issues"
+    "url": "https://github.com/ShenBao/webpack-dev-boilerplate/issues"
   },
-  "homepage": "https://github.com/GuoYongfeng/webpack-dev-boilerplate#readme",
+  "homepage": "https://github.com/ShenBao/webpack-dev-boilerplate#readme",
   "dependencies": {
     "history": "^4.4.1",
     "react": "^15.3.2",

@@ -7,7 +7,7 @@ class MyComponent extends Component {
     return (
       <h1 className="demo">
         <span className="glyphicon glyphicon-th"></span>
-        更多干货请前往：http://guoyongfeng.github.io/idoc/
+        更多干货请前往：http://ShenBao.github.io
         <span className="glyphicon glyphicon-plane"></span>
       </h1>
     );
