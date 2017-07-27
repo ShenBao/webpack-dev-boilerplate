@@ -6,9 +6,7 @@ class MyComponent extends Component {
   render() {
     return (
       <h1 className="demo">
-        <span className="glyphicon glyphicon-th"></span>
-        更多干货请前往：http://ShenBao.github.io
-        <span className="glyphicon glyphicon-plane"></span>
+        webpack-dev-boilerplate
       </h1>
     );
   }

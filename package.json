@@ -20,8 +20,7 @@
     "react",
     "webpack",
     "es6",
-    "babel",
-    "ShenBao"
+    "babel"
   ],
   "author": "ShenBao",
   "license": "MIT",

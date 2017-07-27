@@ -9,13 +9,11 @@ class App extends Component {
   }
 
   render() {
+    var d = new Date()
     return (
       <div>
         <MyComponent />
-        <p>
-          欢迎在github上点赞<br />
-          https://github.com/ShenBao
-        </p>
+        <p>ShenBao</p>
       </div>
     );
   }
